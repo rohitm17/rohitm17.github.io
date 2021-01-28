@@ -1,5 +1,5 @@
 ## Welcome to My portfolio
-<pre>
+
 Tech Stack:
 
  AWS, Core Java, Docker, Flutter & Linux(RedHat) 
@@ -10,7 +10,7 @@ Certifications:
   RHCSA
   CCNA: Introduction to Networks
   
- </pre> 
+ 
 <!--  
 You can use the [editor on GitHub](https://github.com/rohitm17/rohitm17.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
