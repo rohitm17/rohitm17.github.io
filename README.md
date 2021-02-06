@@ -2,17 +2,17 @@
 
 #Tech Stack:
 <pre>
- AWS
- Core Java 
- Docker 
- Flutter
- Linux(RedHat) 
+AWS
+Core Java 
+Docker 
+Flutter
+Linux(RedHat) 
 </pre> 
  
 #Certifications:
 <pre>
-  RHCSA
-  CCNA: Introduction to Networks
+RHCSA
+CCNA: Introduction to Networks
  </pre> 
  
 <!--  
