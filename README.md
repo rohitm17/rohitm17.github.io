@@ -1,3 +1,5 @@
+### Hi there 👋 I'm Rohit Mittal
+
 ## Welcome to My portfolio
 
 #Tech Stack:
@@ -14,6 +16,10 @@ Linux(RedHat)
 RHCSA
 CCNA: Introduction to Networks
  </pre> 
+📫 How to reach me: rohit.1705.mittal@gmail.com
+<br>
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Rohit_Mittal-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitm17/)](https://www.linkedin.com/in/rohitm17/)
  
 <!--  
 You can use the [editor on GitHub](https://github.com/rohitm17/rohitm17.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
