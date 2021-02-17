@@ -20,7 +20,7 @@ CCNA: Introduction to Networks
 <br>
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Rohit_Mittal-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitm17/)](https://www.linkedin.com/in/rohitm17/)
- 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Rohit_Mittal?style=social&label=Rohit&nbsp;Mittal)](https://twitter.com/rohit_mittal17)
 <!--  
 You can use the [editor on GitHub](https://github.com/rohitm17/rohitm17.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
