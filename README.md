@@ -16,12 +16,19 @@ Linux(RedHat)
 RHCSA
 CCNA: Introduction to Networks
  </pre> 
+ 
+#Badges:
+
+ [Ethical Hacker: Hacking Web Servers ](https://skillsoft.digitalbadges.skillsoft.com/f9f18d95-4892-49ba-8ec0-9dbed72bce49)
+
+
 📫 How to reach me:  rohit.1705.mittal@gmail.com 
 <br>
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Rohit_Mittal-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohitm17/)](https://www.linkedin.com/in/rohitm17/)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Rohit_Mittal?style=social&label=Rohit&nbsp;Mittal)](https://twitter.com/rohit_mittal17)
 <br>
+
 
 <!--
 < ! - -  
