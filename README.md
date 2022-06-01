@@ -20,6 +20,8 @@ CCNA: Introduction to Networks
 #Badges:
 
  [Ethical Hacker: Hacking Web Servers ](https://skillsoft.digitalbadges.skillsoft.com/f9f18d95-4892-49ba-8ec0-9dbed72bce49)
+ [CCNA: Introduction to Networks](https://www.credly.com/badges/40482a80-ef58-4269-98df-e96795c3afa8?source=linked_in_profile)
+ [Python for Data Science](https://www.credly.com/badges/a2cc8126-8283-4e50-8263-331ae75630fa/linked_in_profile)
 
 
 📫 How to reach me:  rohit.1705.mittal@gmail.com 
